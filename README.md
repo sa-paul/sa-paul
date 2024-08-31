@@ -16,14 +16,13 @@
 <a href="https://twitter.com/sayanpaulcse" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="sayanPaulCSE" height="30" width="30" /></a>
 <a href="https://www.facebook.com/sayanpaulcse" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="30" /></a>
 <a href="https://www.instagram.com/sayancse/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="30" width="30" /></a>
-
 <a href="https://gitlab.com/sapaul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="sayanPaulCSE" height="30" width="30" /></a>
 </p>
 </div>
 <hr/>
 
 
-<div align="left">
+<div align="left" style="font-size: 1.33rem;">
 
 - Under the guidance of Prof. Animesh Mukherjee at IIT Kharagpur, I proposed and implemented a novel model to <strong>Mitigate Bias in Automatic Speech Recognition (ASR) Systems</strong> by leveraging Large Language Models (LLMs) and Prompt Engineering. This approach led to a <strong>significant 51.04% reduction in bias</strong>, demonstrating the model's effectiveness in enhancing the fairness and accuracy of ASR systems.
 
