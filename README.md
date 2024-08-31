@@ -22,7 +22,7 @@
 <hr/>
 
 
-<div align="left" style="font-size: 1.33rem;">
+<div align="left" style="font-size: 1.47rem;font-family: 'Open Sans', sans-serif;"">
 
 - Under the guidance of Prof. Animesh Mukherjee at IIT Kharagpur, I proposed and implemented a novel model to <strong>Mitigate Bias in Automatic Speech Recognition (ASR) Systems</strong> by leveraging Large Language Models (LLMs) and Prompt Engineering. This approach led to a <strong>significant 51.04% reduction in bias</strong>, demonstrating the model's effectiveness in enhancing the fairness and accuracy of ASR systems.
 
