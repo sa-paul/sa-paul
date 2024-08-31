@@ -2,7 +2,7 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=200&size=27&color=04BDF7&center=true&repeat=false&width=240&lines=Also+known+as" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=1000&color=20F700&center=true&width=190&lines=saPaul;sa-Paul;sayanPaulCSE" alt="Typing SVG" /></h2>
 
-<h3 align="center">Research Intern'24 @ ACM IKDD UpLink IIT Kgp • B.Tech CSE @ NIT Durgapur'25 • Full Stack Developer • Deep Learning Enthusiast</h3>
+<h2 align="center">Research Intern'24 @ ACM IKDD UpLink IIT Kgp • B.Tech CSE @ NIT Durgapur'25 <br/>• Full Stack Developer • Deep Learning Enthusiast</h2>
 
 
 <hr/>
@@ -11,11 +11,12 @@
 <div align ="center">
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/sayanpaulcse" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="30" /></a>
-<a href="https://www.instagram.com/sayancse/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="30" width="30" /></a>
-<a href="https://twitter.com/sayanpaulcse" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="sayanPaulCSE" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/sayan-paul-a29b2b223/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" width="33" /></a>
 <a href="https://github.com/sa-paul" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="sayanPaulCSE" height="30" width="30" /></a>
+<a href="https://twitter.com/sayanpaulcse" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="sayanPaulCSE" height="30" width="30" /></a>
+<a href="https://www.facebook.com/sayanpaulcse" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="30" /></a>
+<a href="https://www.instagram.com/sayancse/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="30" width="30" /></a>
+
 <a href="https://gitlab.com/sapaul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="sayanPaulCSE" height="30" width="30" /></a>
 </p>
 </div>
@@ -24,26 +25,53 @@
 
 <div align="left">
 
-- I’m currently working on mitigating bias in Large Language Model based Automatic Speech Recognition System under Prof Animesh Mukherjee at IIT Kharagpur.
+- Under the guidance of Prof. Animesh Mukherjee at IIT Kharagpur, I proposed and implemented a novel model to <strong>Mitigate Bias in Automatic Speech Recognition (ASR) Systems</strong> by leveraging Large Language Models (LLMs) and Prompt Engineering. This approach led to a <strong>significant 51.04% reduction in bias</strong>, demonstrating the model's effectiveness in enhancing the fairness and accuracy of ASR systems.
 
-- I have been working on audio classification UrbanSound8K using customized Convolutional Neural Network under Prof Subrata Nandi at NIT Durgapur since December'2023. 
+- 🚀 Designed and Deployed Browser Extension, **CF FetchCodes**, which fetches Accepted (✅) Codes of user's CodeForces Friends for a given problem on the platform, using HTML, CSS, **JavaScript**, available in **[Chrome Web Store](https://chromewebstore.google.com/detail/cf-fetchcodes/ombmefkchmjbodcoboeagbpaejfojnga)** and  **[Firefox Ad-ons Store.](https://addons.mozilla.org/en-US/firefox/addon/cf-fetchcodes/)**
 
-- 💬 Ask me about **Competitive Programming, Computer Science Fundamentals** and **Deep Learning.**
+- ⚙️ Engineered **DNS Based Ad Blocker**, which blocks Ads in any device connected to a specific router, using Python and Socket Programming incorporating UDP protocols. Achieved a **50% reduction** in ad traffic, improving network performance for over **150 connected devices** on a specific router.
 
-- 🚀 Developed Chrome Browser Extension, **CF FetchCodes**, which fetches Accepted (✅) Codes of user's CodeForces Friends, using HTML, CSS, JavaScript along with frameworks including Node.JS and deployed in **[Chrome Web Store.](https://chromewebstore.google.com/detail/cf-fetchcodes/ombmefkchmjbodcoboeagbpaejfojnga)** 
+- I am collaborating on a team project on <strong>Audio Classification UrbanSound8K</strong> using customized <strong>Convolutional Neural Network (CNN)</strong> under Prof Subrata Nandi at NIT Durgapur. 
 
-- ⚙️ Developed **DNS Based Ad Blocker**, which blocks Ads in any device connected to a specific router, using Python and socket programming incorporating UDP protocols.
+- 💬 Ask me about **Computer Science Fundamentals, Competitive Programming** and **Deep Learning.**
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/sa-paul).**
+- 👨‍💻 All of my Projects are available at **[Github](https://github.com/sa-paul).**
 
 
-- 📄 Know about my experiences at **[LinkedIn](https://www.linkedin.com/in/sayan-paul-a29b2b223/).**
+- 📄 Know about my Experiences at **[LinkedIn](https://www.linkedin.com/in/sayan-paul-a29b2b223/).**
 </div>
 <hr/>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+</a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="40" height="40"/>
+</a>
+</p>
+<hr/>
 
 <div align ="center">
 <h3 align ="left">My Most Used Languages:</h3>
