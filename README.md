@@ -1,8 +1,8 @@
 <h1 align="center">Welcome👋, I am Sayan Paul</h1>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=200&size=27&color=04BDF7&center=true&repeat=false&width=240&lines=Also+known+as" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=1000&color=20F700&center=true&width=190&lines=saPaul;sa-Paul;sayanPaulCSE" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=200&size=27&color=04BDF7&center=true&repeat=false&width=240&lines=Also+known+as" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=1000&color=20F700&center=true&width=190&lines=saPaul;sa-Paul" alt="Typing SVG" /></h2>
 
-<h2 align="center">Research Intern'24 @ ACM IKDD UpLink IIT Kgp • B.Tech CSE @ NIT Durgapur'25 <br/>• Full Stack Developer • Deep Learning Enthusiast</h2>
+<h2 align="center">SWE Intern'25 @ Samsung R&D Bangalore • Ex-Research Intern'24 @ ACM IKDD UpLink IIT Kgp • B.Tech CSE @ NIT Durgapur'25 <br/>• Full Stack Developer • Deep Learning Enthusiast</h2>
 
 
 <hr/>
@@ -24,13 +24,13 @@
 
 <div align="left" style="font-size: 1.5rem;">
 
-- Under the guidance of Prof. Animesh Mukherjee at IIT Kharagpur, I proposed and implemented a novel model to <strong>Mitigate Bias in Automatic Speech Recognition (ASR) Systems</strong> by leveraging Large Language Models (LLMs) and Prompt Engineering. This approach led to a <strong>significant 51.04% reduction in bias</strong>, demonstrating the model's effectiveness in enhancing the fairness and accuracy of ASR systems.
+- Worked on **LLM-based ASR systems**, including **Gemini Flash and Pro, Qwen Audio, and Whisper**, to mitigate gender bias in **speech-to-text** translation. Achieved a **51.04% reduction** in bias by leveraging prompt engineering and employing evaluation metrics such as **WER, AWG, and the Kruskal-Wallis test**. Additionally, audited bias related to **native region, age, and speech rate of speakers**.
 
-- 🚀 Designed and Deployed Browser Extension, **CF FetchCodes**, which fetches Accepted (✅) Codes of user's CodeForces Friends for a given problem on the platform, using HTML, CSS, **JavaScript**, available in **[Chrome Web Store](https://chromewebstore.google.com/detail/cf-fetchcodes/ombmefkchmjbodcoboeagbpaejfojnga)** and  **[Firefox Ad-ons Store.](https://addons.mozilla.org/en-US/firefox/addon/cf-fetchcodes/)**
+- 🚀 Designed, Developed and Deployed a **open-source** browser extension, **CF FetchCodes**, for CodeForces, a competitive programming platform, to access all the accepted programs, written by CodeForces-Friends of a user, on a single click, using HTML, CSS and **JavaScript**, available in **[Chrome Web Store](https://chromewebstore.google.com/detail/cf-fetchcodes/ombmefkchmjbodcoboeagbpaejfojnga)** and  **[Firefox Ad-ons Store.](https://addons.mozilla.org/en-US/firefox/addon/cf-fetchcodes/)**
 
 - ⚙️ Engineered **DNS Based Ad Blocker**, which blocks Ads in any device connected to a specific router, using Python and Socket Programming incorporating UDP protocols. Achieved a **50% reduction** in ad traffic, improving network performance for over **150 connected devices** on a specific router.
 
-- I am collaborating on a team project on <strong>Audio Classification UrbanSound8K</strong> using customized <strong>Convolutional Neural Network (CNN)</strong> under Prof Subrata Nandi at NIT Durgapur. 
+- Developed a system for **urban sound classification** optimized for offline use on low-end devices like **Raspberry Pi and Arduino**. Leveraged **custom CNN architectures**, with feature extraction techniques including **MFCC and spectrogram** analysis, to ensure efficient and accurate performance on resource-constrained hardware. 
 
 - 💬 Ask me about **Computer Science Fundamentals, Competitive Programming** and **Deep Learning.**
 
